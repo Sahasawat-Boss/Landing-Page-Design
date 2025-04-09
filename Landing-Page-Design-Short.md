@@ -1,8 +1,16 @@
-🧩 Landing Page Design – Quick Reference
+# 🧩 Landing Page Design – Quick Reference
+
 A high-converting landing page should tell a story, build trust, and guide users to take action.
-## Hero Section
 
 ![image](https://github.com/user-attachments/assets/21117f54-7c7d-47a5-a739-643124bed541)
+
+## Landing Page Structure
+- Hero Section
+- Features & Benefits
+- Social Proof or Testimonials
+- FAQ (Frequently Asked Questions)
+- Call to Action (CTA)
+- Footer
 
 ## 💥 Hero Section
 Your Hero should grab attention, explain your value, and guide the user toward the next step.
